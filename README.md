@@ -45,3 +45,7 @@ The script will perform the following operations:
 2.  Add a new student
 3.  Update a student's email
 4.  Delete a student
+
+## Video Demonstration
+
+YouTube: [https://youtu.be/iUfFqbW-hAw](https://youtu.be/iUfFqbW-hAw)
